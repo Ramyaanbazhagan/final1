@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+sentence-transformers
+numpy
+torch
+gtts
+SpeechRecognition
+pyaudio
