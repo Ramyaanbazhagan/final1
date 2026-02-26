@@ -15,7 +15,7 @@ st.set_page_config("Neural Persona", layout="wide")
 # ===============================
 # GEMINI API (WORKING MODE)
 # ===============================
-genai.configure(api_key="AIzaSyDuaKnn1X6sp1kGZ_dtZHYkY-pZeQgfM-4")
+genai.configure(api_key="AIzaSyCgcr7IK2O_lfjesew18xFVxgkJkl_CVmc")
 
 # ===============================
 # ETHICAL DISCLAIMER
